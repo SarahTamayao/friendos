@@ -11,12 +11,12 @@
 Creates a profile for a user based on hobbies they enjoy, and connects them with individuals with similar hobbies. Can be used for making new friends who enjoy similar activities.
 
 ### App Evaluation
-- **Category:** Social Networking / Hobbies
-- **Mobile:** This app would be primarily developed for mobile devices.
-- **Story:** Analyzes users' hobbies, and connects them to other users with similar choices.
-- **Market:** Any individual 17+ could choose to use this app.
-- **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.
-- **Scope:** First we'll start with connecting people based on their interests, and then as we expand we can allow them to message each other within the app and increase customization options.
+- **Category:** 
+- **Mobile:** 
+- **Story:** 
+- **Market:** 
+- **Habit:** 
+- **Scope:** 
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
